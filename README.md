@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Mahmudul Hasan
-- 👀 I’m interested in front end web development
-- 🌱 I’m currently learning node js
+- 👀 I’m interested in front end web development 
+- &#128519; My skills includes HTML, CSS, JavaScript, React
+- 🌱 I’m currently making some projects for my portfolio
 - 💞️ I’m looking to collaborate on front end web development
 - 📫 How to reach me: - mhasan.bd.95@gmail.com
 <p>Recent work:-</p>
