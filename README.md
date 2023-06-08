@@ -49,7 +49,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhasan1037&show_icons=true&locale=en&layout=compact" alt="mhasan1037" /></p>
 
-<h3>Portfolio: <a href="https://mhasan1037.github.io/My-Portfolio">https://mhasan1037.github.io/My-Portfolio</a></h3>
+<h3>Portfolio: <a href="https://mhasan1037.github.io/portfolio/">https://mhasan1037.github.io/portfolio/</a></h3>
 
 
 <h3>Recent Projects:-</h3>
