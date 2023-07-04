@@ -51,7 +51,7 @@
 </a> 
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhasan1037&show_icons=true&locale=en&layout=compact" alt="mhasan1037" /></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mHasan1037&layout=compact"/>
 
 <h3>Portfolio: <a href="https://mhasan1037.github.io/portfolio/">https://mhasan1037.github.io/portfolio/</a></h3>
 
