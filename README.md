@@ -12,9 +12,8 @@
 <h3 align="left">Languages and Tools:</h3>
 
 
-
-
-<table width="320px" style="margin: 10px 0">
+<br></br><br></br>
+<table width="320px">
     <tbody>
         <tr valign="top">
             <td width="80px" align="center">
