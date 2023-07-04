@@ -14,7 +14,7 @@
 
 
 
-<table width="320px">
+<table width="320px" style="margin: 10px 0">
     <tbody>
         <tr valign="top">
             <td width="80px" align="center">
@@ -73,9 +73,9 @@
 </table>
 
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=mHasan1037&layout=compact"/>
+<img style="margin: 10px 0" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=mHasan1037&layout=compact"/>
 
-<h3>Portfolio: <a href="https://mhasan1037.github.io/portfolio/">https://mhasan1037.github.io/portfolio/</a></h3>
+<h3 style="margin: 10px 0">Portfolio: <a href="https://mhasan1037.github.io/portfolio/">https://mhasan1037.github.io/portfolio/</a></h3>
 
 
 <h3>Recent Projects:-</h3>
