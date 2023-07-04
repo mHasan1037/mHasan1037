@@ -8,11 +8,8 @@
 <a href="https://twitter.com/hasan_1037" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hasan_1037" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/front-end-webdeveloper/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/front-end-webdeveloper/" height="30" width="40" /></a>
 </p>
-
+<br></br>
 <h3 align="left">Languages and Tools:</h3>
-
-
-<br></br><br></br>
 <table width="320px">
     <tbody>
         <tr valign="top">
@@ -71,12 +68,11 @@
     </tbody>
 </table>
 
-
+<br></br>
 <img style="margin: 10px 0" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=mHasan1037&layout=compact"/>
 
+<br></br>
 <h3 style="margin: 10px 0">Portfolio: <a href="https://mhasan1037.github.io/portfolio/">https://mhasan1037.github.io/portfolio/</a></h3>
-
-
 <h3>Recent Projects:-</h3>
 <p>1. Ecommerce Website: <a href="https://mhasan1037.github.io/E-commerce-2/">https://mhasan1037.github.io/E-commerce-2/</a></p>
 <p>2. React Dashboard: <a href="https://mhasan1037.github.io/react-dashboard/">https://mhasan1037.github.io/react-dashboard/</a></p>
