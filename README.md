@@ -68,9 +68,9 @@
                 </td>
             </tr>
             </td>
-        </tr>
-        <tr>
-            <img style="margin: 10px 0" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=mHasan1037&layout=compact"/>
+            <td>
+                 <img style="margin: 10px 0" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=mHasan1037&layout=compact"/>
+            </td>
         </tr>
     </tbody>
 </table>
