@@ -12,9 +12,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <table width="320px">
     <tbody>
-        <tr>
-            <td>
-                    <tr valign="top">
+           <tr valign="top">
                 <td width="80px" align="center">
                 <span><strong>Typescript</strong></span><br>
                 <img height="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="typescript">
@@ -67,14 +65,10 @@
                 <img height="32px" src="https://www.chartjs.org/media/logo-title.svg">
                 </td>
             </tr>
-            </td>
-            <td>
-                 <img style="margin: 10px 0" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=mHasan1037&layout=compact"/>
-            </td>
-        </tr>
     </tbody>
 </table>
-
+<br></br>
+<img style="margin: 10px 0" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=mHasan1037&layout=compact"/>
 
 <br></br>
 <h3 style="margin: 10px 0">Portfolio: <a href="https://mhasan1037.github.io/portfolio/">https://mhasan1037.github.io/portfolio/</a></h3>
