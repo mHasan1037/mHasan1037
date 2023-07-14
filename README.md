@@ -12,64 +12,69 @@
 <h3 align="left">Languages and Tools:</h3>
 <table width="320px">
     <tbody>
-        <tr valign="top">
-            <td width="80px" align="center">
-            <span><strong>Typescript</strong></span><br>
-            <img height="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="typescript">
-            </td>
-            <td width="80px" align="center">
-            <span><strong>JavaScript</strong></span><br>
-            <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript">
-            </td>
-            <td width="80px" align="center">
-            <span><strong>React</strong></span><br>
-            <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React">
-            </td>
-            <td width="80px" align="center">
-            <span><strong>Redux</strong></span><br>
-            <img height="32px" src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" alt="Redux">
+        <tr>
+            <td>
+                    <tr valign="top">
+                <td width="80px" align="center">
+                <span><strong>Typescript</strong></span><br>
+                <img height="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="typescript">
+                </td>
+                <td width="80px" align="center">
+                <span><strong>JavaScript</strong></span><br>
+                <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript">
+                </td>
+                <td width="80px" align="center">
+                <span><strong>React</strong></span><br>
+                <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React">
+                </td>
+                <td width="80px" align="center">
+                <span><strong>Redux</strong></span><br>
+                <img height="32px" src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" alt="Redux">
+                </td>
+            </tr>
+            <tr valign="top">
+                <td width="80px" align="center">
+                <span><strong>HTML</strong></span><br>
+                <img height="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML">
+                </td>
+                <td width="80px" align="center">
+                  <span><strong>CSS</strong></span><br>
+                  <img height="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS">
+                </td>
+                <td width="80px" align="center">
+                  <span><strong>SCSS</strong></span><br>
+                  <img height="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="SCSS">
+                </td>
+                <td width="80px" align="center">
+                  <span><strong>Bootstrap</strong></span><br>
+                  <img height="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap">
+                </td>
+            </tr>
+           <tr valign="top"> 
+                <td width="80px" align="center">
+                <span><strong>git</strong></span><br>
+                <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
+                </td>
+                <td width="80px" align="center">
+                <span><strong>GitHub</strong></span><br>
+                <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+                <td width="80px" align="center">
+                <span><strong>Figma</strong></span><br>
+                <img height="32px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
+                </td>
+                <td width="80px" align="center">
+                <span><strong>Chartjs</strong></span><br>
+                <img height="32px" src="https://www.chartjs.org/media/logo-title.svg">
+                </td>
+            </tr>
             </td>
         </tr>
-        <tr valign="top">
-            <td width="80px" align="center">
-            <span><strong>HTML</strong></span><br>
-            <img height="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML">
-            </td>
-            <td width="80px" align="center">
-              <span><strong>CSS</strong></span><br>
-              <img height="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS">
-            </td>
-            <td width="80px" align="center">
-              <span><strong>SCSS</strong></span><br>
-              <img height="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="SCSS">
-            </td>
-            <td width="80px" align="center">
-              <span><strong>Bootstrap</strong></span><br>
-              <img height="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap">
-            </td>
-        </tr>
-       <tr valign="top"> 
-            <td width="80px" align="center">
-            <span><strong>git</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
-            </td>
-            <td width="80px" align="center">
-            <span><strong>GitHub</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-            <td width="80px" align="center">
-            <span><strong>Figma</strong></span><br>
-            <img height="32px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
-            </td>
-            <td width="80px" align="center">
-            <span><strong>Chartjs</strong></span><br>
-            <img height="32px" src="https://www.chartjs.org/media/logo-title.svg">
-            </td>
+        <tr>
+            <img style="margin: 10px 0" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=mHasan1037&layout=compact"/>
         </tr>
     </tbody>
 </table>
 
-<br></br>
-<img style="margin: 10px 0" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=mHasan1037&layout=compact"/>
 
 <br></br>
 <h3 style="margin: 10px 0">Portfolio: <a href="https://mhasan1037.github.io/portfolio/">https://mhasan1037.github.io/portfolio/</a></h3>
