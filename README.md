@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mahmudul Hasan</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-- 🌱 I’m currently learning **Typescript & Tailwind css**
+- 🌱 I’m currently learning **next.js, Typescript & Tailwind css**
+- 🌱 Contact me: **mhasan.bd.95@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
