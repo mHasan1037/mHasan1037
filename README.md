@@ -32,6 +32,24 @@
                 <img height="32px" src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" alt="Redux">
                 </td>
             </tr>
+           <tr valign="top">
+                <td width="80px" align="center">
+                <span><strong>Node</strong></span><br>
+                <img height="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" alt="Node">
+                </td>
+                <td width="80px" align="center">
+                <span><strong>Express</strong></span><br>
+                <img height="32" src="https://images.codingblocks.com/web/express.png" alt="Express">
+                </td>
+                <td width="80px" align="center">
+                <span><strong>Mongodb</strong></span><br>
+                <img height="32" src="https://1000logos.net/wp-content/uploads/2020/08/MongoDB-Logo.png" alt="Mongbd">
+                </td>
+                <td width="80px" align="center">
+                <span><strong>Redux</strong></span><br>
+                <img height="32px" src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" alt="Redux">
+                </td>
+            </tr>
             <tr valign="top">
                 <td width="80px" align="center">
                 <span><strong>HTML</strong></span><br>
