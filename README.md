@@ -64,8 +64,8 @@
                   <img height="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="SCSS">
                 </td>
                 <td width="80px" align="center">
-                  <span><strong>Bootstrap</strong></span><br>
-                  <img height="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap">
+                  <span><strong>Tailwind</strong></span><br>
+                  <img height="32px" src="https://www.cdnlogo.com/logos/t/34/tailwind-css.svg" alt="Tailwind">
                 </td>
             </tr>
            <tr valign="top"> 
