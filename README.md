@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahmudul Hasan</h1>
 <h3 align="center">A passionate full stack developer.</h3>
 
-- 🌱 I have experience working on edTech and ecommerce applications
+- 🌱 I have experience working on edTech, ecommerce applications and more.
 - 🌱 I’m currently looking for a job
 - 🌱 Contact me: **mhasan.bd.95@gmail.com**
 
