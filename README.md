@@ -5,10 +5,9 @@
 - 🌱 I’m currently looking for a job
 - 🌱 Contact me: **mhasan.bd.95@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+### Connect with me:
 
-| [![Twitter](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg)](https://twitter.com/hasan_1037) | [![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/front-end-webdeveloper/) |
-|---|---|
+[![Twitter](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg)](https://twitter.com/hasan_1037) [![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/front-end-webdeveloper/)
 
 <br></br>
 <h3 align="left">Languages and Tools:</h3>
