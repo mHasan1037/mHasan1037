@@ -6,9 +6,9 @@
 - 🌱 Contact me: **mhasan.bd.95@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/hasan_1037" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hasan_1037" height="30" width="40" /></a><a href="https://www.linkedin.com/in/front-end-webdeveloper/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="front-end-webdeveloper" height="30" width="40" /></a>
-</p>
+
+| [![Twitter](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg)](https://twitter.com/hasan_1037) | [![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/front-end-webdeveloper/) |
+|---|---|
 
 <br></br>
 <h3 align="left">Languages and Tools:</h3>
