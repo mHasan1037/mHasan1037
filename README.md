@@ -100,7 +100,7 @@
 <br></br>
 <h3 style="margin: 10px 0">Portfolio: <a href="https://mhasan1037.github.io/portfolio/">https://mhasan1037.github.io/portfolio/</a></h3>
 <h3>Recent Projects:-</h3>
-<p>1. "Real-Time Chat & Social App: <a href="https://chat-app-frontend-fmis.onrender.com/" target="_blank">https://chat-app-frontend-fmis.onrender.com/</a></p>
+<p>1. Real-Time Chat & Social App: <a href="https://chat-app-frontend-fmis.onrender.com/" target="_blank">https://chat-app-frontend-fmis.onrender.com/</a></p>
 <p>2. Mern full stack application: <a href="https://mern-ecommerce-frontend-jg1w.onrender.com/" target="_blank">https://mern-ecommerce-frontend-jg1w.onrender.com/</a></p>
 <p>3. React Dashboard: <a href="https://mhasan1037.github.io/react-dashboard/" target="_blank">https://mhasan1037.github.io/react-dashboard/</a></p>
 
